@@ -1,0 +1,1 @@
+This is a basic drum kit utilizing HTML, CSS, and JS. This is a simple page which utilizes event listeners to trigger sound and animation upon keystrokes.
